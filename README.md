@@ -21,7 +21,7 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoHerc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de ThiagoHerc">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoHerc&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de ThiagoHerc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHerc&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens de ThiagoHerc">
 </p>
 
